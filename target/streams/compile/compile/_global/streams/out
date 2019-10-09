@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/donald-armando/Workspace/Java/Play/play-samples-play-java-rest-api-example/conf/routes:1:1: type HomeController is not a member of package Infraestructura.controllers[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /               Infraestructura.controllers.HomeController.index[0m
+[0m[[0m[31merror[0m] [0m[0m/home/donald-armando/Workspace/Java/Play/play-samples-play-java-rest-api-example/conf/routes:1:1: type HomeController is not a member of package Infraestructura.controllers[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /               Infraestructura.controllers.HomeController.index[0m
+[0m[[0m[31merror[0m] [0m[0m/home/donald-armando/Workspace/Java/Play/play-samples-play-java-rest-api-example/conf/routes:1:1: type HomeController is not a member of package Infraestructura.controllers[0m
+[0m[[0m[31merror[0m] [0m[0mGET     /               Infraestructura.controllers.HomeController.index[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

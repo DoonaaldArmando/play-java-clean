@@ -1,0 +1,4 @@
+GET     /               Infraestructura.controllers.HomeController.index
+PUT    /:id             Infraestructura.controllers.HomeController.update(request:Request,id)
+
+->     /v1/posts        posts.Routes
